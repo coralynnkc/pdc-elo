@@ -1,11 +1,11 @@
 ,Aff,Neg,Win
-0,Canyon Crest CL,ModernBrain PP,Aff
+0,Canyon Crest LC,ModernBrain PP,Aff
 1,San Marino PL,Lake Balboa PL,Aff
 2,Sacred Heart Cathedral Prep FY,Notre Dame NY,Neg
 3,Canyon Crest ZZ,Westlake SB,Neg
-4,OES LR,Northwood ZY,Aff
+4,OES RL,Northwood ZY,Aff
 5,Albuquerque AE,Sonoma BS,Neg
-6,College Prep BA,Quarry Lane AM,Neg
+6,College Prep AB,Quarry Lane AM,Neg
 7,Coppell TB,College Prep JG,Aff
 8,Damien-St. Lucy's PP,Peninsula LL,Neg
 9,VHTPA MH,Damien-St. Lucy's DL,Aff
@@ -15,27 +15,27 @@
 13,Peninsula LiLi,VHTPA ON,Aff
 14,Archbishop Mitty MR,Northwood GC,Aff
 15,Peninsula KX,Liberal Arts and Science CK,Aff
-16,ModernBrain JW,Bravo BB,Neg
+16,ModernBrain WJ,Bravo BB,Neg
 17,Elizabeth Learning Center BR,New Designs-University Park CG,Aff
 18,Peninsula KK,Bellarmine  AQ,Neg
 19,Emery MT,Bellarmine  OL,Neg
 20,Lake Balboa DS,Damien-St. Lucy's KN,Neg
-21,Sacred Heart Cathedral Prep BC,Canyon Crest LY,Aff
+21,Sacred Heart Cathedral Prep CB,Canyon Crest LY,Aff
 22,Northwood SA,Lake Balboa BB,Aff
 23,Peninsula JL,VHTPA TT,Neg
 24,Emery KW,Peninsula ZZ,Neg
-25,Culver City RN,VHTPA GR,Neg
+25,Culver City NR,VHTPA GR,Neg
 26,College Prep JT,Peninsula FW,Neg
 27,Archbishop Mitty SS,Peninsula DY,Neg
-28,Elizabeth Learning Center CV,Damien-St. Lucy's GI,Neg
+28,Elizabeth Learning Center CV,Damien-St. Lucy's IG,Neg
 29,Peninsula TW,Notre Dame GM,Neg
 30,Lowell CL,Notre Dame BD,Aff
 31,Damien-St. Lucy's JM,CK McClatchy DG,Neg
-32,Liberal Arts and Science BF,Lowell SB,Aff
+32,Liberal Arts and Science BF,Lowell BS,Aff
 33,Peninsula EW,Lake Balboa NM,Aff
 34,Bravo RF,ModernBrain LL,Aff
 35,Archbishop Mitty DN,Bellarmine  RH,Neg
-36,Sonoma BM,College Prep NE,Neg
+36,Sonoma BM,College Prep EN,Neg
 37,San Marino LC,Ghidotti Early CL,Aff
 38,Quarry Lane PS,Peninsula BB,Neg
 39,ModernBrain SY,College Prep BT,Neg
@@ -44,4 +44,4 @@
 42,Notre Dame DP,Stockdale GT,Aff
 43,Bellarmine  CG,Notre Dame CP,Aff
 44,Peninsula PY,Downtown Magnets LG,Aff
-45,Elizabeth Learning Center TM,California Academy of Mathematics and Science GL,Aff
+45,Elizabeth Learning Center MT,California Academy of Mathematics and Science GL,Aff

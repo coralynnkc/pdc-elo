@@ -1,22 +1,22 @@
 ,Aff,Neg,Win
-0,Dulles MN,Langham Creek CT,Aff
-1,Westwood AS,Athens TS,Aff
-2,BASIS San Antonio Shavano KP,Reagan FP,Aff
+0,Dulles NM,Langham Creek CT,Aff
+1,Westwood SA,Athens TS,Aff
+2,BASIS San Antonio Shavano PK,Reagan FP,Aff
 3,BASIS San Antonio Shavano AT,Tomball Memorial CN,Neg
 4,Casady FJ,Rock Hill AS,Aff
 5,Westwood YS,Liberal Arts and Science CK,Neg
 6,Elkins PS,Winston Churchill LR,Neg
-7,Jesuit LR,Coppell JS,Neg
+7,Jesuit LR,Coppell SJ,Neg
 8,Hendrickson AH,Austin Peace KF,Aff
 9,Liberal Arts and Science LM,Lake Travis SO,Aff
 10,Heritage Hall HH,Casady SS,Aff
 11,Prosper CG,Clear Springs SG,Neg
 12,Crossings Christian TL,Winston Churchill CL,Aff
 13,Langham Creek EY,Edmond Memorial HL,Aff
-14,Melissa NT,Liberal Arts and Science VA,Neg
+14,Melissa TN,Liberal Arts and Science VA,Neg
 15,Austin Peace SA,Prosper HS,Aff
-16,Westwood GS,Kinkaid AK,Aff
-17,Dulles IC,Jesuit CJ,Aff
+16,Westwood SG,Kinkaid AK,Aff
+17,Dulles CI,Jesuit CJ,Aff
 18,Austin Peace SS,Coppell GM,Neg
 19,Greenhill BH,Westwood BA,Neg
 20,L C Anderson SW,Westwood GK,Neg
@@ -27,9 +27,9 @@
 25,Liberal Arts and Science RL,Winston Churchill MP,Aff
 26,Westwood TL,Caddo Magnet VA,Aff
 27,Austin Peace KK,Pharr San Juan Alamo Southwest CG,Aff
-28,Coppell SP,Caddo Magnet MP,Neg
+28,Coppell SP,Caddo Magnet PM,Neg
 29,Jesuit BP,Liberal Arts and Science LR,Neg
 30,Melissa SM,Crossings Christian SP,Neg
 31,McCallum MV,Pharr San Juan Alamo Southwest VC,Aff
 32,Niles West SS,Heritage Hall HC,Aff
-33,Dripping Springs CK,Athens HR,Neg
+33,Dripping Springs CK,Athens RH,Neg

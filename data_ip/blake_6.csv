@@ -1,9 +1,9 @@
 ,Aff,Neg,Win
-0,Bronx Science CG,Eagan TN,Neg
-1,Berkeley Prep GS,Lexington WH,Neg
-2,Bronx Science EK,Johns Creek GV,Aff
+0,Bronx Science GC,Eagan TN,Neg
+1,Berkeley Prep GS,Lexington HW,Neg
+2,Bronx Science EK,Johns Creek VG,Aff
 3,St Paul Central NL,Canyon Crest ZZ,Neg
-4,Lexington DS,Bronx Science CF,Aff
+4,Lexington DS,Bronx Science FC,Aff
 5,Berkeley Prep KN,Rosemount GM,Neg
 6,Berkeley Prep LL,Edina LA,Aff
 7,Wayzata KJ,Ronald Reagan TR,Aff
@@ -11,25 +11,25 @@
 9,Eagan WW,Rufus King MB,Aff
 10,Mamaroneck MS,Edina AC,Neg
 11,Thomas Kelly MG,Peninsula BY,Neg
-12,Unionville HK,Kenwood PW,Aff
+12,Unionville KH,Kenwood PW,Aff
 13,Sonoma PM,Thomas Edison AB,Neg
 14,Montgomery Bell MM,St Paul Central UB,Aff
 15,Baltimore City MW,St Paul Central BM,Aff
 16,Greenhill CL,Berkeley Prep NY,Aff
 17,Eagan MS,Kenwood BH,Neg
 18,Peninsula LW,Farmington AS,Aff
-19,St Paul Central MC,Pace GM,Aff
-20,Sonoma KY,Alpharetta NI,Aff
+19,St Paul Central MC,Pace MG,Aff
+20,Sonoma YK,Alpharetta IN,Aff
 21,Rosemount AP,New Trier NH,Neg
 22,McDonogh SP,Kenwood SW,Neg
-23,Pace EW,Eagan SW,Aff
+23,Pace WE,Eagan SW,Aff
 24,Solorio MC,Ronald Reagan CD,Aff
-25,Solorio SM,Mamaroneck RW,Neg
+25,Solorio SM,Mamaroneck WR,Neg
 26,Rosemount PY,Peninsula EW,Neg
 27,Rosemount SR,St Paul Central EB,Aff
 28,Baltimore City HP,Alpharetta MM,Neg
-29,Taipei American CH,Peninsula LS,Aff
-30,Alpharetta KB,Canyon Crest CL,Aff
+29,Taipei American HC,Peninsula LS,Aff
+30,Alpharetta KB,Canyon Crest LC,Aff
 31,Farmington CN,St Paul Central WC,Aff
 32,Farmington KN,Mamaroneck MK,Neg
 33,Edina BT,Tartan PM,Aff
@@ -38,7 +38,7 @@
 36,Berkeley Prep GN,Peninsula JS,Neg
 37,Head-Royce DW,Edina SK,Aff
 38,Peninsula PY,Lexington LM,Neg
-39,New Trier MP,Mamaroneck GA,Neg
+39,New Trier MP,Mamaroneck AG,Neg
 40,Iowa City LL,La Crosse Central BK,Aff
 41,Tartan HJ,Mamaroneck MT,Neg
 42,New Trier CS,Taipei American YL,Neg

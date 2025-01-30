@@ -1,16 +1,16 @@
 ,Aff,Neg,Win
-0,Johns Creek GV,Kenwood PW,Aff
+0,Johns Creek VG,Kenwood PW,Aff
 1,New Trier MP,Kenwood SW,Neg
 2,Wylie E. Groves XC,Kenwood BH,Aff
 3,Avery Coonley FB,Glenbrook South CF,Aff
-4,New Trier HP,Mamaroneck MP,Neg
+4,New Trier PH,Mamaroneck MP,Neg
 5,Cathryn Gorman Independent CG,Mamaroneck MT,Neg
 6,New Trier ArSh,Glenbrook South MM,Neg
-7,Green Canyon ZO,Glenbrook South KZ,Neg
-8,New Trier AS,Mamaroneck GA,Neg
+7,Green Canyon OZ,Glenbrook South KZ,Neg
+8,New Trier AS,Mamaroneck AG,Neg
 9,University OM,Glenbrook North FP,Aff
-10,New Trier HY,Mamaroneck CF,Neg
-11,Pace GK,Hawken LS,Aff
+10,New Trier HY,Mamaroneck FC,Neg
+11,Pace KG,Hawken LS,Aff
 12,New Trier HJ,Liberal Arts and Science CK,Aff
 13,New Trier PY,Liberal Arts and Science VA,Neg
 14,Walter Payton BR,Hawken KZ,Aff
@@ -24,17 +24,17 @@
 22,Minneapolis South WB,Whitney Young SP,Aff
 23,Opus CC,Carrollton School of the Sacred Heart RG,Neg
 24,Northside  WP,Lane Tech  CJ,Neg
-25,Northside  GL,Carrollton School of the Sacred Heart GM,Aff
+25,Northside  GL,Carrollton School of the Sacred Heart MG,Aff
 26,Okemos DT,Lane Tech  RN,Aff
 27,Northside  AV,Lane Tech  KS,Aff
-28,Maine East GR,Carrollton School of the Sacred Heart FJ,Aff
+28,Maine East GR,Carrollton School of the Sacred Heart JF,Aff
 29,Northside  AD,Niles West VK,Neg
 30,Maine East AJ,Lane Tech  ZQ,Neg
 31,Northside  GT,Niles North CS,Neg
 32,Solorio MC,Niles West SS,Neg
 33,Solorio VC,Niles West RK,Neg
 34,Berkeley Prep LZ,Niles North KM,Aff
-35,Barstow SH,Woodward PN,Aff
+35,Barstow SH,Woodward NP,Aff
 36,Berkeley Prep RV,Niles North GW,Aff
 37,Berkeley Prep SS,Woodward CM,Neg
 38,Barstow BM,Niles North ChSh,Neg
@@ -44,10 +44,10 @@
 42,Westminster VZ,Montgomery Bell SJ,Neg
 43,Berkeley Prep LL,Montgomery Bell RF,Neg
 44,St Ignatius GG,Herbert Henry Dow CC,Aff
-45,St Ignatius FK,Montgomery Bell SL,Neg
+45,St Ignatius FK,Montgomery Bell LS,Neg
 46,Glenbrook North SY,Univ Of Chicago Lab LL,Neg
-47,Northview CT,Univ Of Chicago Lab SJ,Aff
-48,Glenbrook North CL,Montgomery Bell PR,Neg
+47,Northview TC,Univ Of Chicago Lab SJ,Aff
+48,Glenbrook North CL,Montgomery Bell RP,Neg
 49,Northview TN,Solon GH,Neg
 50,Glenbrook North CiRi,Montgomery Bell TB,Neg
 51,Iowa City CV,Solon CN,Aff

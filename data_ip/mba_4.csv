@@ -1,16 +1,16 @@
 ,Aff,Neg,Win
 0,Montgomery Bell TB,Northside  AS,Aff
 1,Woodward CM,Shawnee Mission East PL,Neg
-2,Northview CT,Liberal Arts and Science BV,Aff
+2,Northview TC,Liberal Arts and Science BV,Aff
 3,Little Rock Central BW,Blue Valley North CT,Neg
 4,Liberal Arts and Science RL,Peninsula KX,Neg
-5,Pace GM,Montgomery Bell HM,Neg
+5,Pace MG,Montgomery Bell HM,Neg
 6,Univ Of Chicago Lab LL,Bellarmine  AQ,Neg
 7,Barstow OT,Niles North CS,Neg
-8,Woodward JT,Peninsula LL,Neg
-9,Bellarmine  DD,Glenbrook South WB,Aff
-10,Blue Valley North PS,Woodward PN,Aff
-11,Lexington WH,Berkeley Prep RG,Neg
+8,Woodward TJ,Peninsula LL,Neg
+9,Bellarmine  DD,Glenbrook South BW,Aff
+10,Blue Valley North PS,Woodward NP,Aff
+11,Lexington HW,Berkeley Prep RG,Neg
 12,Carrollton School of the Sacred Heart KL,Niles North SP,Neg
 13,Berkeley Prep LZ,Carrollton School of the Sacred Heart GB,Aff
 14,Glenbrook North CR,Berkeley Prep NY,Aff
@@ -18,8 +18,8 @@
 16,Washburn Rural CN,Solorio TG,Aff
 17,Quarry Lane PS,Lexington LM,Neg
 18,Liberal Arts and Science BS,New Trier SY,Aff
-19,Greenhill BH,Montgomery Bell SL,Aff
-20,Jesuit LR,Sonoma KY,Neg
+19,Greenhill BH,Montgomery Bell LS,Aff
+20,Jesuit LR,Sonoma YK,Neg
 21,Montgomery Bell SJ,Berkeley Prep RV,Neg
 22,Glenbrook South KZ,Blue Valley Southwest PC,Neg
 23,Galloway DP,Eastside HS,Aff
@@ -27,4 +27,4 @@
 25,Berkeley Prep LS,Barstow GK,Neg
 26,Lexington DS,Washburn Rural CH,Aff
 27,Niles North MK,Wylie E. Groves XC,Aff
-28,Quarry Lane CA,Northview LN,Aff
+28,Quarry Lane AC,Northview NL,Aff

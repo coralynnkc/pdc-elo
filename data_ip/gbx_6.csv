@@ -2,35 +2,35 @@
 0,St Mark's School of Texas PJ,Lane Tech  ZQ,Aff
 1,Berkeley Prep RV,Greenhill CL,Aff
 2,St Paul Central UB,Peninsula LL,Neg
-3,Northview CT,Mamaroneck CF,Aff
+3,Northview TC,Mamaroneck FC,Aff
 4,Liberal Arts and Science BF,College Prep JG,Aff
-5,Sonoma KY,Head-Royce AP,Neg
-6,Taipei American YL,Johns Creek GV,Aff
-7,Montgomery Bell SL,Bellarmine  DD,Aff
+5,Sonoma YK,Head-Royce AP,Neg
+6,Taipei American YL,Johns Creek VG,Aff
+7,Montgomery Bell LS,Bellarmine  DD,Aff
 8,Brophy PP,Westwood BA,Aff
 9,Notre Dame AM,Glenbrook North CR,Neg
-10,Damien-St. Lucy's PP,Westwood GS,Aff
+10,Damien-St. Lucy's PP,Westwood SG,Aff
 11,Wylie E. Groves XC,Whitney Young BM,Neg
-12,Shawnee Mission East PL,Carrollton School of the Sacred Heart GM,Aff
-13,Glenbrook South WB,Kenwood SW,Aff
+12,Shawnee Mission East PL,Carrollton School of the Sacred Heart MG,Aff
+13,Glenbrook South BW,Kenwood SW,Aff
 14,Washburn Rural CH,Bellarmine  AQ,Neg
-15,Liberal Arts and Science BS,Interlake SC,Aff
+15,Liberal Arts and Science BS,Interlake CS,Aff
 16,Blue Valley Southwest PC,St Lucy's Priory GI,Aff
 17,Washburn Rural CN,Greenhill BH,Aff
 18,Bellarmine  OL,Montgomery Bell SJ,Neg
-19,Quarry Lane CM,Montgomery Bell PR,Aff
+19,Quarry Lane CM,Montgomery Bell RP,Aff
 20,Liberal Arts and Science CK,Glenbrook South KZ,Aff
 21,Glenbrook North FP,Leland SL,Neg
 22,Montgomery Bell HM,Glenbrook North KS,Aff
 23,Jones FR,Berkeley Prep NY,Neg
-24,Bronx Science CG,Coppell JS,Aff
-25,College Prep BA,Alpharetta NI,Aff
-26,Lowell SB,Newark Science AO,Neg
+24,Bronx Science GC,Coppell SJ,Aff
+25,College Prep AB,Alpharetta IN,Aff
+26,Lowell BS,Newark Science AO,Neg
 27,Peninsula KK,Minneapolis South WB,Aff
 28,Head-Royce DW,Liberal Arts and Science LR,Aff
 29,Alpharetta MM,Washburn Rural CR,Neg
 30,Hawken KZ,Lowell CL,Neg
-31,Pace EW,Liberal Arts and Science RL,Aff
+31,Pace WE,Liberal Arts and Science RL,Aff
 32,Liberal Arts and Science LM,Bellarmine  RH,Neg
 33,Isidore Newman JN,Montgomery Bell TB,Neg
 34,Niles North SP,Little Rock Central LW,Neg
@@ -38,23 +38,23 @@
 36,BASIS Peoria JG,Blue Valley North CT,Neg
 37,Berkeley Prep LZ,Niles North MK,Neg
 38,Edina AC,Glenbrook South MP,Neg
-39,Taipei American CH,New Trier HJ,Aff
-40,Pace GK,Westminster VZ,Neg
+39,Taipei American HC,New Trier HJ,Aff
+40,Pace KG,Westminster VZ,Neg
 41,Niles North CS,Archbishop Mitty MR,Aff
 42,New Trier SY,St Paul Central MC,Aff
 43,Peninsula PY,Blue Valley North PS,Neg
-44,Olathe North MM,Sonoma ML,Neg
+44,Olathe North MM,Sonoma LM,Neg
 45,Peninsula LiLi,New Trier MP,Neg
 46,Berkeley Prep LL,Walter Payton BR,Neg
 47,Jesuit LR,Interlake OW,Aff
-48,Greenhill AJ,Pace GM,Neg
+48,Greenhill AJ,Pace MG,Neg
 49,Montgomery Bell KF,Westwood GK,Aff
 50,Barstow SH,Sonoma MM,Aff
 51,Maine East GR,Hawken LK,Neg
 52,Notre Dame DP,Shawnee Mission South MK,Neg
 53,New Trier HW,Blue Valley Southwest DT,Neg
 54,Peninsula LW,Northside  AD,Aff
-55,San Marino LC,Meadows SK,Aff
+55,San Marino LC,Meadows KS,Aff
 56,Mamaroneck MT,Georgetown Day MW,Aff
 57,Berkeley Prep SS,Westminster GS,Aff
 58,Little Rock Central BG,Notre Dame BC,Neg
@@ -62,31 +62,31 @@
 60,Winston Churchill MP,Brophy SH,Neg
 61,Edina BL,Quarry Lane PS,Neg
 62,Katy Taylor WW,Damien-St. Lucy's KN,Neg
-63,New Trier HP,Peninsula DY,Aff
+63,New Trier PH,Peninsula DY,Aff
 64,Little Rock Central BF,Iowa City RL,Aff
 65,Hawken LS,Pine Crest RR,Aff
 66,Northside  GT,Notre Dame NP,Neg
 67,Bellarmine  CG,Blue Valley North LP,Neg
-68,Carrollton School of the Sacred Heart RG,Bronx Science CF,Aff
+68,Carrollton School of the Sacred Heart RG,Bronx Science FC,Aff
 69,Washburn Rural BH,Polytechnic TK,Aff
 70,Quarry Lane HG,Jesuit BP,Neg
-71,Westminster LY,Carrollton School of the Sacred Heart BF,Aff
+71,Westminster LY,Carrollton School of the Sacred Heart FB,Aff
 72,Edina TS,Blue Valley North BK,Aff
 73,Kinkaid AK,Berkeley Prep RG,Neg
-74,Peninsula BB,Carrollton School of the Sacred Heart FJ,Aff
+74,Peninsula BB,Carrollton School of the Sacred Heart JF,Aff
 75,Shawnee Mission South AZ,Iowa City CL,Neg
 76,Polytechnic BH,Kenwood BH,Neg
 77,NSU AY,Maine East JN,Aff
 78,Little Rock Central WC,Park Tudor WX,Neg
-79,Isidore Newman WA,Pine Crest EA,Aff
+79,Isidore Newman WA,Pine Crest AE,Aff
 80,Munster KW,Niles West SS,Neg
 81,Garfield TZ,McDowell LJ,Aff
 82,Peninsula JS,Little Rock Central MK,Aff
-83,Pittsburgh Central Catholic HS,Garfield WN,Aff
+83,Pittsburgh Central Catholic HS,Garfield NW,Aff
 84,Von Steuben GL,Pace NS,Aff
 85,Goode STEM CH,Sonoma BS,Neg
 86,Niles North McKa,San Marino CJ,Neg
-87,Niles North WC,Interlake YL,Aff
+87,Niles North WC,Interlake LY,Aff
 88,Von Steuben ML,Lane Tech  JK,Neg
 89,Maine East HP,Damien-St. Lucy's CM,Neg
 90,Glenbrook North DE,Von Steuben LM,Neg

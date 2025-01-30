@@ -1,11 +1,11 @@
 ,Aff,Neg,Win
-0,Montgomery Bell SJ,Pace GK,Aff
+0,Montgomery Bell SJ,Pace KG,Aff
 1,Kenwood PW,Northside  WP,Neg
 2,New Trier SW,Herbert Henry Dow CC,Aff
-3,Montgomery Bell SL,New Trier PY,Aff
-4,Montgomery Bell PR,Niles North CS,Aff
-5,Woodward PN,Whitney Young SP,Aff
-6,Carrollton School of the Sacred Heart GM,Barstow BM,Aff
+3,Montgomery Bell LS,New Trier PY,Aff
+4,Montgomery Bell RP,Niles North CS,Aff
+5,Woodward NP,Whitney Young SP,Aff
+6,Carrollton School of the Sacred Heart MG,Barstow BM,Aff
 7,Niles West RK,Solon GH,Neg
 8,Niles North ChSh,Northside  GL,Aff
 9,Liberal Arts and Science BF,St Ignatius GG,Aff
@@ -25,7 +25,7 @@
 23,Cathryn Gorman Independent CG,Solorio MC,Aff
 24,Kenwood BH,Glenbrook North WK,Neg
 25,Lane Tech  ZQ,Wylie E. Groves XC,Neg
-26,Woodward CM,Northview CT,Neg
+26,Woodward CM,Northview TC,Neg
 27,Glenbrook South KZ,Barstow SH,Aff
 28,Northside  DT,Westminster VZ,Neg
 29,Mamaroneck MT,Montgomery Bell TB,Neg
@@ -35,20 +35,20 @@
 33,McDonogh SP,New Trier ArSh,Neg
 34,Maine East GR,Denmark Independent BL,Neg
 35,Berkeley Prep SS,Woodward AH,Aff
-36,Niles West SS,Mamaroneck CF,Neg
-37,Glenbrook North SY,Green Canyon ZO,Aff
+36,Niles West SS,Mamaroneck FC,Neg
+37,Glenbrook North SY,Green Canyon OZ,Aff
 38,Carrollton School of the Sacred Heart RG,Glenbrook North CR,Neg
 39,Mamaroneck MP,Niles West VK,Aff
 40,Niles North KM,Minneapolis South WB,Aff
 41,Hawken LS,Solon CN,Aff
 42,Kenwood TW,Montgomery Bell RF,Neg
-43,Carrollton School of the Sacred Heart FJ,Maine East AJ,Aff
+43,Carrollton School of the Sacred Heart JF,Maine East AJ,Aff
 44,Northside  GT,Univ Of Chicago Lab SJ,Aff
 45,Glenbrook North CiRi,New Trier MP,Neg
 46,Solorio VC,New Trier AS,Neg
 47,Berkeley Prep LL,Liberal Arts and Science CK,Neg
 48,Glenbrook South CF,Iowa City LL,Neg
-49,Glenbrook South PB,Mamaroneck GA,Neg
-50,New Trier HP,Avery Coonley FB,Aff
+49,Glenbrook South PB,Mamaroneck AG,Neg
+50,New Trier PH,Avery Coonley FB,Aff
 51,Liberal Arts and Science LR,Northside  AV,Aff
-52,Johns Creek GV,University OM,Aff
+52,Johns Creek VG,University OM,Aff
